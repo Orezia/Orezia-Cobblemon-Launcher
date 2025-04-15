@@ -1,6 +1,6 @@
 appId: 'oreziacobblemonlauncher'
 productName: 'Orezia Cobblemon Launcher'
-artifactName: '${productName}-setup-${version}.${ext}'
+artifactName: 'Orezia_Launcher-${version}.${ext}'
 
 copyright: 'Copyright © 2020-2025 Orezia'
 
@@ -33,7 +33,7 @@ mac:
       arch:
         - 'x64'
         - 'arm64'
-  artifactName: '${productName}-setup-${version}-${arch}.${ext}'
+  artifactName: 'Orezia_Launcher-${version}-${arch}.${ext}'
   category: 'public.app-category.games'
 
 # Linux Configuration

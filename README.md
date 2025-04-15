@@ -1,4 +1,4 @@
-<p align="center"><img src="https://oreziamc.fr/img/logo.png" alt="icon-launcher"></p>
+<p align="center"><img src="https://oreziamc.fr/img/Orezia-banner.png" alt="icon-launcher"></p>
 
 <h1 align="center">Orezia Cobblemon</h1>
 
@@ -44,7 +44,7 @@ Si vous téléchargez à partir des [Releases](https://github.com/Orezia/Orezia-
 
 | Platform | File |
 | -------- | ---- |
-| Windows x64 | `Orezia-Cobblemon-Launcher-setup-VERSION.exe` |
-| macOS x64 | `Orezia-Cobblemon-Launcher-setup-VERSION-x64.dmg` |
-| macOS arm64 | `Orezia-Cobblemon-Launcher-setup-VERSION-arm64.dmg` |
-| Linux x64 | `Orezia-Cobblemon-Launcher-setup-VERSION.AppImage` |
+| Windows x64 | `Orezia_Launcher-VERSION.exe` |
+| macOS x64 | `Orezia_Launcher-VERSION-x64.dmg` |
+| macOS arm64 | `Orezia_Launcher-VERSION-arm64.dmg` |
+| Linux x64 | `Orezia_Launcher-VERSION.AppImage` |
