@@ -1,4 +1,4 @@
-<p align="center"><img src="https://oreziamc.fr/img/Orezia-banner.png" alt="icon-launcher"></p>
+<p align="center"><img src="https://oreziamc.fr/img/Orezia-banner.png" style="height: 150px;" alt="icon-launcher"></p>
 
 <h1 align="center">Orezia Cobblemon</h1>
 
