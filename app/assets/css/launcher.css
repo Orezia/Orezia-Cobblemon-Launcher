@@ -106,10 +106,10 @@ body, button {
 
 /* Frame logo (windows only). */
 #frameTitleDock {
-    padding: 0px 10px;
+    padding: 0px 5px;
 }
 #frameTitleText {
-    font-size: 14px;
+    font-size: 15px;
     font-family: 'Avenir Medium';
     letter-spacing: 0.5px;
 }
@@ -2855,19 +2855,25 @@ input:checked + .toggleSwitchSlider:before {
 
 /* Logo image. */
 #image_seal {
-    height: 70px;
+    height: 100px;
     width: auto;
     position: relative;
-    border: 2px solid white;
     box-sizing: border-box;
     border-radius: 50%;
 }
+/* #orezia_title {
+    height: 60px;
+    width: auto;
+    position: relative;
+    padding-left: 115%;
+    margin-top: -66px;
+} */
 
 /* Logo container styles. */
 #image_seal_container {
     position: relative;
-    height: 70px;
-    width: 70px;
+    height: 100px;
+    width: 100px;
     border-radius: 50%;
     margin-top: 50px;
 }
@@ -2899,7 +2905,7 @@ input:checked + .toggleSwitchSlider:before {
     cursor: pointer;
     visibility: hidden;
     opacity: 0;
-    width: 100px;
+    width: 130px;
     height: 15px;
     background-color: rgb(0, 0, 0);
     color: #fff;
@@ -3139,10 +3145,10 @@ input:checked + .toggleSwitchSlider:before {
 /* X icon colors. */
 #xSVG:hover,
 #xURL:focus #xSVG {
-    fill: #000000;
+    fill: #1da1f2;
 }
 #xSVG:active {
-    fill: #090909;
+    fill: #1b8dd4;
 }
 
 /* Instagram icon colors. */
