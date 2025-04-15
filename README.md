@@ -1,4 +1,4 @@
-<p align="center"><img src="../src/assets/images/icon.png" alt="icon-launcher"></p>
+<p align="center"><img src="../src/assets/images/Orezia_Banner.png" alt="icon-launcher"></p>
 
 <h1 align="center">Orezia Cobblemon</h1>
 
@@ -7,7 +7,7 @@
     <a href="https://oreziamc.fr"><img alt="Static Badge" src="https://img.shields.io/badge/serveur-0.1.0-blue?style=for-the-badge&logo=codecrafters&logoColor=white&labelColor=8ebe42&color=55afba"></a>
     <a href="https://github.com/Orezia/Orezia-Cobblemon-Launcher/releases/latest"><img alt="GitHub Release" src="https://img.shields.io/github/v/release/Orezia/Orezia-Cobblemon-Launcher.svg?style=for-the-badge&logo=codecrafters&logoColor=white&labelColor=6aae3a&color=5a381e"></a>
 </p>
-based on Helios Launcher
+
 <p align="center">• 🪶 Site internet : <a href="https://oreziamc.fr">https://oreziamc.fr</a><br>
 • ⚙️ Support (Discord) : <a href="https://discord.oreziamc.fr">https://discord.oreziamc.fr</a><br>
 • 💎 Boutique : <a href="https://boutique.oreziamc.fr">https://boutique.oreziamc.fr</a><br></p>
