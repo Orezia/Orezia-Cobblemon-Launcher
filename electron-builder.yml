@@ -1,5 +1,5 @@
-appId: 'oreziacobblemonlauncher'
-productName: 'Orezia Cobblemon Launcher'
+appId: 'orezialauncher'
+productName: 'Orezia Launcher'
 artifactName: 'Orezia_Launcher-${version}.${ext}'
 
 copyright: 'Copyright © 2020-2025 Orezia'
@@ -41,8 +41,8 @@ linux:
   target: 'AppImage'
   maintainer: 'Orezia'
   vendor: 'Orezia'
-  synopsis: 'Orezia Cobblemon Launcher'
-  description: 'Launcher pour le serveur Orezia Cobblemon'
+  synopsis: 'Orezia Launcher'
+  description: 'Launcher pour les serveurs Orezia'
   category: 'Game'
 
 

@@ -1,11 +1,11 @@
 {
-  "name": "oreziacobblemonlauncher",
-  "version": "0.0.3",
-  "productName": "Orezia Cobblemon Launcher",
-  "description": "Launcher du serveur Orezia Cobblemon",
+  "name": "orezialauncher",
+  "version": "0.0.4",
+  "productName": "Orezia Launcher",
+  "description": "Launcher pour les serveurs Orezia",
   "author": "Daniel Scalzi (https://github.com/dscalzi/) & Orezia (https://github.com/Orezia/)",
   "license": "UNLICENSED",
-  "homepage": "https://github.com/Orezia/Orezia-Cobblemon-Launcher",
+  "homepage": "https://github.com/Orezia/Orezia-Launcher",
   "bugs": {
     "url": "https://discord.oreziamc.fr"
   },
@@ -46,6 +46,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Orezia/Orezia-Cobblemon-Launcher.git"
+    "url": "git+https://github.com/Orezia/Orezia-Launcher.git"
   }
 }

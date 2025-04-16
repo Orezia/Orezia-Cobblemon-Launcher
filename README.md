@@ -1,6 +1,6 @@
 <p align="center"><img src="https://oreziamc.fr/img/Orezia-banner.png" style="height: 150px;" alt="icon-launcher"></p>
 
-<h1 align="center">Orezia Cobblemon</h1>
+<h1 align="center">Launcher Orezia</h1>
 
 <p align="center">
     <a href="https://discord.oreziamc.fr"><img alt="Discord" src="https://img.shields.io/discord/778624251833221120?style=for-the-badge&logo=discord&logoColor=white&labelColor=6A7EC2&color=7389D8"></a>
