@@ -4,8 +4,7 @@
 
 <p align="center">
     <a href="https://discord.oreziamc.fr"><img alt="Discord" src="https://img.shields.io/discord/778624251833221120?style=for-the-badge&logo=discord&logoColor=white&labelColor=6A7EC2&color=7389D8"></a>
-    <a href="https://oreziamc.fr"><img alt="Static Badge" src="https://img.shields.io/badge/serveur-0.1.0-blue?style=for-the-badge&logo=codecrafters&logoColor=white&labelColor=8ebe42&color=55afba"></a>
-    <a href="https://github.com/Orezia/Orezia-Cobblemon-Launcher/releases/latest"><img alt="GitHub Release" src="https://img.shields.io/github/v/release/Orezia/Orezia-Cobblemon-Launcher.svg?style=for-the-badge&logo=codecrafters&logoColor=white&labelColor=6aae3a&color=5a381e"></a>
+    <a href="https://github.com/Orezia/Orezia-Cobblemon-Launcher/releases/latest"><img alt="GitHub Release" src="https://img.shields.io/github/v/release/Orezia/Orezia-Cobblemon-Launcher.svg?style=for-the-badge&logo=codecrafters&logoColor=white&labelColor=6aae3a&color=55afba"></a>
 </p>
 
 <p align="center">• 🪶 Site internet : <a href="https://oreziamc.fr">https://oreziamc.fr</a><br>
