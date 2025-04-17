@@ -20,7 +20,7 @@
 </p>
 
 
-## **Fonctionnalitées du launcher :**
+## **Fonctionnalités du launcher :**
 
 * 🔒 Gestion complète des comptes.
   * Ajoutez plusieurs comptes et passez facilement de l'un à l'autre.
