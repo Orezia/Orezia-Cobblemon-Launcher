@@ -718,7 +718,7 @@ async function resolveModsForUI(){
 
     const modStr = parseModulesForUI(distro.getServerById(serv).modules, false, servConf.mods)
 
-    document.getElementById('settingsReqModsContent').innerHTML = modStr.reqMods
+    // document.getElementById('settingsReqModsContent').innerHTML = modStr.reqMods
     document.getElementById('settingsOptModsContent').innerHTML = modStr.optMods
 }
 
@@ -731,7 +731,7 @@ async function resolveModsForUI(){
  */
 function parseModulesForUI(mdls, submodules, servConf){
 
-    let reqMods = ''
+    // let reqMods = ''
     let optMods = ''
 
     for(const mdl of mdls){
@@ -740,24 +740,24 @@ function parseModulesForUI(mdls, submodules, servConf){
 
             if(mdl.getRequired().value){
 
-                reqMods += `<div id="${mdl.getVersionlessMavenIdentifier()}" class="settingsBaseMod settings${submodules ? 'Sub' : ''}Mod" enabled>
-                    <div class="settingsModContent">
-                        <div class="settingsModMainWrapper">
-                            <div class="settingsModStatus"></div>
-                            <div class="settingsModDetails">
-                                <span class="settingsModName">${mdl.rawModule.name}</span>
-                                <span class="settingsModVersion">v${mdl.mavenComponents.version}</span>
-                            </div>
-                        </div>
-                        <label class="toggleSwitch" reqmod>
-                            <input type="checkbox" checked>
-                            <span class="toggleSwitchSlider"></span>
-                        </label>
-                    </div>
-                    ${mdl.subModules.length > 0 ? `<div class="settingsSubModContainer">
-                        ${Object.values(parseModulesForUI(mdl.subModules, true, servConf[mdl.getVersionlessMavenIdentifier()])).join('')}
-                    </div>` : ''}
-                </div>`
+                // reqMods += `<div id="${mdl.getVersionlessMavenIdentifier()}" class="settingsBaseMod settings${submodules ? 'Sub' : ''}Mod" enabled>
+                //     <div class="settingsModContent">
+                //         <div class="settingsModMainWrapper">
+                //             <div class="settingsModStatus"></div>
+                //             <div class="settingsModDetails">
+                //                 <span class="settingsModName">${mdl.rawModule.name}</span>
+                //                 <span class="settingsModVersion">v${mdl.mavenComponents.version}</span>
+                //             </div>
+                //         </div>
+                //         <label class="toggleSwitch" reqmod>
+                //             <input type="checkbox" checked>
+                //             <span class="toggleSwitchSlider"></span>
+                //         </label>
+                //     </div>
+                //     ${mdl.subModules.length > 0 ? `<div class="settingsSubModContainer">
+                //         ${Object.values(parseModulesForUI(mdl.subModules, true, servConf[mdl.getVersionlessMavenIdentifier()])).join('')}
+                //     </div>` : ''}
+                // </div>`
 
             } else {
 
@@ -788,7 +788,7 @@ function parseModulesForUI(mdls, submodules, servConf){
     }
 
     return {
-        reqMods,
+        // reqMods,
         optMods
     }
 
