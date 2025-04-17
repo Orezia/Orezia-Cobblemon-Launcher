@@ -10,7 +10,7 @@ mediaInstagramURL = "https://www.instagram.com/oreziamc/"
 mediaDiscordURL = "https://discord.oreziamc.fr"
 
 [ejs.settings]
-sourceGithubLink = "https://github.com/Orezia/Orezia-Cobblemon-Launcher"
+sourceGithubLink = "https://github.com/Orezia/Orezia-Launcher"
 supportLink = "https://discord.oreziamc.fr"
 
 [ejs.welcome]
