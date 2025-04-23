@@ -42,11 +42,11 @@
 
 ## **Téléchargement :**
 
-Vous pouvez le télécharger à partir de [GitHub Releases](https://github.com/Orezia/Orezia-Cobblemon-Launcher/releases/latest)
+Vous pouvez le télécharger à partir de [GitHub Releases](https://github.com/Orezia/Orezia-Launcher/releases/latest)
 
 **Plateformes supportées**
 
-Si vous téléchargez à partir des [Releases](https://github.com/Orezia/Orezia-Cobblemon-Launcher/releases), sélectionnez le programme d'installation de votre système.
+Si vous téléchargez à partir des [Releases](https://github.com/Orezia/Orezia-Launcher/releases), sélectionnez le programme d'installation de votre système.
 
 | Platform | File |
 | -------- | ---- |
