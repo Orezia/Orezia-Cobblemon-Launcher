@@ -4,7 +4,7 @@
 
 <p align="center">
     <a href="https://discord.oreziamc.fr"><img alt="Discord" src="https://img.shields.io/discord/778624251833221120?style=for-the-badge&logo=discord&logoColor=white&labelColor=6A7EC2&color=7389D8"></a>
-    <a href="https://github.com/Orezia/Orezia-Cobblemon-Launcher/releases/latest"><img alt="GitHub Release" src="https://img.shields.io/github/v/release/Orezia/Orezia-Launcher.svg?style=for-the-badge&logo=codecrafters&logoColor=white&labelColor=6aae3a&color=55afba"></a>
+    <a href="https://github.com/Orezia/Orezia-Cobblemon-Launcher/"><img alt="GitHub Release" src="https://img.shields.io/github/v/release/Orezia/Orezia-Launcher.svg?style=for-the-badge&logo=codecrafters&logoColor=white&labelColor=6aae3a&color=55afba"></a>
 </p>
 
 <p align="center">• 🪶 Site internet : <a href="https://oreziamc.fr">https://oreziamc.fr</a><br>
@@ -42,11 +42,11 @@
 
 ## **Téléchargement :**
 
-Vous pouvez le télécharger à partir de [GitHub Releases](https://github.com/Orezia/Orezia-Launcher/releases/latest)
+Vous pouvez le télécharger à partir de [GitHub Releases](https://github.com/Orezia/Orezia-Launcher/)
 
 **Plateformes supportées**
 
-Si vous téléchargez à partir des [Releases](https://github.com/Orezia/Orezia-Launcher/releases), sélectionnez le programme d'installation de votre système.
+Si vous téléchargez à partir des [Releases](https://github.com/Orezia/Orezia-Launcher/), sélectionnez le programme d'installation de votre système.
 
 | Platform | File |
 | -------- | ---- |
